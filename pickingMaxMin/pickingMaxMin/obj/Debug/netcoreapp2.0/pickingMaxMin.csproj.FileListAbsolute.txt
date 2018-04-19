@@ -1,0 +1,11 @@
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\bin\Debug\netcoreapp2.0\pickingMaxMin.deps.json
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\bin\Debug\netcoreapp2.0\pickingMaxMin.runtimeconfig.json
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\bin\Debug\netcoreapp2.0\pickingMaxMin.runtimeconfig.dev.json
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\bin\Debug\netcoreapp2.0\pickingMaxMin.dll
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\bin\Debug\netcoreapp2.0\pickingMaxMin.pdb
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\obj\Debug\netcoreapp2.0\pickingMaxMin.csprojResolveAssemblyReference.cache
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\obj\Debug\netcoreapp2.0\pickingMaxMin.csproj.CoreCompileInputs.cache
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\obj\Debug\netcoreapp2.0\pickingMaxMin.AssemblyInfoInputs.cache
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\obj\Debug\netcoreapp2.0\pickingMaxMin.AssemblyInfo.cs
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\obj\Debug\netcoreapp2.0\pickingMaxMin.dll
+C:\Users\HanSung\Desktop\c#\pickingMaxMin\pickingMaxMin\obj\Debug\netcoreapp2.0\pickingMaxMin.pdb

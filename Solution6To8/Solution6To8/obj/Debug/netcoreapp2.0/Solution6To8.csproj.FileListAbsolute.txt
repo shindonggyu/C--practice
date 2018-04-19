@@ -1,0 +1,11 @@
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\bin\Debug\netcoreapp2.0\Solution6To8.deps.json
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\bin\Debug\netcoreapp2.0\Solution6To8.runtimeconfig.json
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\bin\Debug\netcoreapp2.0\Solution6To8.runtimeconfig.dev.json
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\bin\Debug\netcoreapp2.0\Solution6To8.dll
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\bin\Debug\netcoreapp2.0\Solution6To8.pdb
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\obj\Debug\netcoreapp2.0\Solution6To8.csprojResolveAssemblyReference.cache
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\obj\Debug\netcoreapp2.0\Solution6To8.csproj.CoreCompileInputs.cache
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\obj\Debug\netcoreapp2.0\Solution6To8.AssemblyInfoInputs.cache
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\obj\Debug\netcoreapp2.0\Solution6To8.AssemblyInfo.cs
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\obj\Debug\netcoreapp2.0\Solution6To8.dll
+C:\Users\HanSung\Desktop\c#\Solution6To8\Solution6To8\obj\Debug\netcoreapp2.0\Solution6To8.pdb

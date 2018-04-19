@@ -1,0 +1,11 @@
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\bin\Debug\netcoreapp2.0\takeAGuess.deps.json
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\bin\Debug\netcoreapp2.0\takeAGuess.runtimeconfig.json
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\bin\Debug\netcoreapp2.0\takeAGuess.runtimeconfig.dev.json
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\bin\Debug\netcoreapp2.0\takeAGuess.dll
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\bin\Debug\netcoreapp2.0\takeAGuess.pdb
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\obj\Debug\netcoreapp2.0\takeAGuess.csprojResolveAssemblyReference.cache
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\obj\Debug\netcoreapp2.0\takeAGuess.csproj.CoreCompileInputs.cache
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\obj\Debug\netcoreapp2.0\takeAGuess.AssemblyInfoInputs.cache
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\obj\Debug\netcoreapp2.0\takeAGuess.AssemblyInfo.cs
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\obj\Debug\netcoreapp2.0\takeAGuess.dll
+C:\Users\HanSung\Desktop\c#\takeAGuess\takeAGuess\obj\Debug\netcoreapp2.0\takeAGuess.pdb

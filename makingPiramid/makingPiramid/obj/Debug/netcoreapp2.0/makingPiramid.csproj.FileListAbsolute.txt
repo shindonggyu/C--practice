@@ -1,0 +1,11 @@
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\bin\Debug\netcoreapp2.0\makingPiramid.deps.json
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\bin\Debug\netcoreapp2.0\makingPiramid.runtimeconfig.json
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\bin\Debug\netcoreapp2.0\makingPiramid.runtimeconfig.dev.json
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\bin\Debug\netcoreapp2.0\makingPiramid.dll
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\bin\Debug\netcoreapp2.0\makingPiramid.pdb
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\obj\Debug\netcoreapp2.0\makingPiramid.csprojResolveAssemblyReference.cache
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\obj\Debug\netcoreapp2.0\makingPiramid.csproj.CoreCompileInputs.cache
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\obj\Debug\netcoreapp2.0\makingPiramid.AssemblyInfoInputs.cache
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\obj\Debug\netcoreapp2.0\makingPiramid.AssemblyInfo.cs
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\obj\Debug\netcoreapp2.0\makingPiramid.dll
+C:\Users\HanSung\Desktop\c#\makingPiramid\makingPiramid\obj\Debug\netcoreapp2.0\makingPiramid.pdb

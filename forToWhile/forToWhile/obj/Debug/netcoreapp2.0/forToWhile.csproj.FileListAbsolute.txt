@@ -1,0 +1,10 @@
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\bin\Debug\netcoreapp2.0\forToWhile.deps.json
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\bin\Debug\netcoreapp2.0\forToWhile.runtimeconfig.json
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\bin\Debug\netcoreapp2.0\forToWhile.runtimeconfig.dev.json
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\bin\Debug\netcoreapp2.0\forToWhile.dll
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\bin\Debug\netcoreapp2.0\forToWhile.pdb
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\obj\Debug\netcoreapp2.0\forToWhile.csproj.CoreCompileInputs.cache
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\obj\Debug\netcoreapp2.0\forToWhile.AssemblyInfoInputs.cache
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\obj\Debug\netcoreapp2.0\forToWhile.AssemblyInfo.cs
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\obj\Debug\netcoreapp2.0\forToWhile.dll
+C:\Users\HanSung\Desktop\c#\forToWhile\forToWhile\obj\Debug\netcoreapp2.0\forToWhile.pdb

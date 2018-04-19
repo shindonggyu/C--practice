@@ -1,0 +1,11 @@
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\bin\Debug\netcoreapp2.0\consolekey2.deps.json
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\bin\Debug\netcoreapp2.0\consolekey2.runtimeconfig.json
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\bin\Debug\netcoreapp2.0\consolekey2.runtimeconfig.dev.json
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\bin\Debug\netcoreapp2.0\consolekey2.dll
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\bin\Debug\netcoreapp2.0\consolekey2.pdb
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\obj\Debug\netcoreapp2.0\consolekey2.csprojResolveAssemblyReference.cache
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\obj\Debug\netcoreapp2.0\consolekey2.csproj.CoreCompileInputs.cache
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\obj\Debug\netcoreapp2.0\consolekey2.AssemblyInfoInputs.cache
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\obj\Debug\netcoreapp2.0\consolekey2.AssemblyInfo.cs
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\obj\Debug\netcoreapp2.0\consolekey2.dll
+C:\Users\HanSung\Desktop\c#\consolekey2\consolekey2\obj\Debug\netcoreapp2.0\consolekey2.pdb
